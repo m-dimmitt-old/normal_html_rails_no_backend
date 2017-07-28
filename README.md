@@ -1,12 +1,21 @@
+## fut here will be baselines...
+1) put a route into the rails application.... 
+```  has sub list```
+
+2) put something a little more involved into the view.
+```  has sub list```
+
+1) folder structure:
+```  list will show here```
+```    sub files here```
 ## There is nothing here yet. <br>Each one of these projects is currently on step 0.
 
-# Prélude: Calm Before the Storm
-Welcome! <b>"RubyJaxPlus"</b> consists of open source programming enthusiasts learning from each other. Helping people advance on thier journey and <b>"Plus"</b> because more than just Ruby we are always learning new things.
-
-# Overview: A web app for: 
-1) Group Interaction 2) Group Knowledge 3) Onboarding, getting users: the right direction
-
 ![screen shot 2017-05-22 at 12 30 35 pm](https://cloud.githubusercontent.com/assets/11463275/26319260/539a6d18-3eec-11e7-9c85-f9785f130ea0.png)
+
+
+
+
+
 
 Learned so far: 
 <br>(1) <b>config/local/</b>, allowing a website to be written into different languages.
@@ -40,3 +49,6 @@ Learned so far:
 
 
 http://stackoverflow.com/questions/10661026/deploying-redis-to-heroku-unable-to-connect
+
+# Overview: A web app for: 
+1) Group Interaction 2) Group Knowledge 3) Onboarding, getting users: the right direction
